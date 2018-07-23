@@ -1,1 +1,1 @@
-# Specifications about the the deployment of TFT decentralized exchange.
+# Specifications for the the deployment of TF decentralized exchange.
