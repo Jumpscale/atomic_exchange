@@ -1,3 +1,6 @@
+# MOVED TO https://github.com/threefoldtech/0-templates/tree/master/atomic-exchange
+
+
 # Atomic Exchange Templates
 
 [![Build Status](https://travis-ci.com/Jumpscale/atomic_exchange.svg?branch=master)](https://travis-ci.com/Jumpscale/atomic_exchange)
